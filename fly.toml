@@ -34,4 +34,3 @@ grace_period = "1s"
 interval = "15s"
 restart_limit = 0
 timeout = "2s"
-YOUTUBE_KEY = "AIzaSyCCZE1v2DC8gx86ShX8o303q5fEHdsQcm4"
